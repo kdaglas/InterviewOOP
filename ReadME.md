@@ -1,6 +1,7 @@
 # Password checker
 
 [![Build Status](https://travis-ci.org/kdaglas/InterviewOOP.svg?branch=password)](https://travis-ci.org/kdaglas/InterviewOOP)
+[![Coverage Status](https://coveralls.io/repos/github/kdaglas/InterviewOOP/badge.svg?branch=password)](https://coveralls.io/github/kdaglas/InterviewOOP?branch=password)
 
 A program that requires the users to input username and password to register and helps to check the validity of password input by the user or users.
 
