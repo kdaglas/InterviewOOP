@@ -5,10 +5,6 @@
 
 A program that requires the users to input username and password to register and helps to check the validity of password input by the user or users.
 
-## Password Checker
-
-This program allows the users to register and then helps to validate their passwords.
-
 ### Features
 
 - Register a user
