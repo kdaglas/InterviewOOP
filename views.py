@@ -1,5 +1,5 @@
-from models import Users
-from validate import validate_username, validate_password
+from .models import Users
+from .validate import validate_username, validate_password
 import re
 
 

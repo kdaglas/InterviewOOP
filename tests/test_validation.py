@@ -1,5 +1,5 @@
 import unittest
-from validate import validate_password
+from ..validate import validate_password
 
 class Test_Validation(unittest.TestCase):
 
