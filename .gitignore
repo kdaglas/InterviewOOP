@@ -6,3 +6,14 @@ tests/__pycache__/
 .coverage
 .pytest_cache/
 .vscode/
+envn/
+.vscode/
+app/*.pyc
+test/*.pyc/
+app/__pycache__/.ar
+app/database/__pycache__/.
+app/database/__pycache__/.
+*pyc
+tests/__pycache__/.
+.pytest_cache/.
+__pycache__/.
