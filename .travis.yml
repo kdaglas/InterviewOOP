@@ -6,11 +6,11 @@ python:
 install:
   - pip install -r requirements.txt 
   - pip install coveralls
-  - pip install coverage 
+  - pip3 install pytest-cov
   - pip install nose
 
 # command to run tests 
 script: 
-  - nosetests --with-coverage --cover-package=app
+  - python3 -m pytest --cov tests/
 after_success: 
   - coveralls
