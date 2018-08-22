@@ -1,5 +1,5 @@
 import unittest
-from ..views import add_new_user
+from app.views import add_new_user
 
 
 class Test_Views(unittest.TestCase):

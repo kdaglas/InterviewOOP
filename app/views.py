@@ -1,5 +1,5 @@
-from .models import Users
-from .validate import validate_username, validate_password
+from app.models import Users
+from validate import validate_username, validate_password
 import re
 
 
@@ -67,8 +67,5 @@ def register():
             print("-----------------------------")
 
         return True
-    return False    
-
-if __name__ == '__main__':
-    register()    
+    return False   
          
